@@ -10,4 +10,4 @@ import "./styl/index.styl";
 
 const result = count(2, 2);
 console.log(result);
-console.log(sum(1, 2, 3, 4));
+console.log(sum(1, 2, 3, 4, 5));
